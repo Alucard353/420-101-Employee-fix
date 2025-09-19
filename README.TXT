@@ -14,9 +14,18 @@ USER INSTRUCTIONS:
 
 
 *************** My Exam Anwsers *************
-My Anwser to Question 12:
+My Anwser to Question 11:
 Get calculateAge amount;
 if (calculateAge > 16 then)
    return message("employee is below age 16")
 else
      return message ("employee is age 16 or above")
+     
+My Anwser to Question 12: 
+int age = calculateAge(2025);
+        if (calculateAge >16) then
+        print message ("Not of age to drive");
+        else 
+        print message ("you are of age")
+        
+
