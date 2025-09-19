@@ -14,4 +14,9 @@ USER INSTRUCTIONS:
 
 
 *************** My Exam Anwsers *************
-
+My Anwser to Question 12:
+Get calculateAge amount;
+if (calculateAge > 16 then)
+   return message("employee is below age 16")
+else
+     return message ("employee is age 16 or above")
