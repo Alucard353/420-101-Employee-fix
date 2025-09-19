@@ -71,6 +71,15 @@ int age = calculateAge(2025);
         else 
         print message ("you are of age")
 
+My Anwser questionn 13
+/**
+*
+*/
+private double calculate pay () {
+    Total = (hourlywage + unpaid hours)
+    calculate pay = (Total x 30%)
+        
+
 
             
 
