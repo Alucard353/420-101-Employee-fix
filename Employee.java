@@ -23,7 +23,12 @@ public class Employee{
      * Returns true is an employee is above 16 years old
      */
     private int calculateAge(int currentYear){
-        return (currentYear - yearOfBirth);
+    return (currentYear - yearOfBirth);
+     Get calculateAge amount;
+    if (calculateAge > 16 then)
+     return message("employee is below age 16")
+    else
+     return message ("employee is age 16 or above")
     }
 
     /**
@@ -54,14 +59,6 @@ public class Employee{
 }
 
 
-
-
-My Anwser to Question 11:
-Get calculateAge amount;
-if (calculateAge > 16 then)
-   return message("employee is below age 16")
-else
-     return message ("employee is age 16 or above")
 
 
          My Anwser to Question 12: 
