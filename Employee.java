@@ -55,7 +55,9 @@ public class Employee{
      * Output the payment record and resets unpaid hours
      */
     public void paySalary(){
-        // to be completed
+        Get calculate pay then
+        print message ("private string fullname has received a wire transfer")
+        set unpaid hours = 0
     }
 }
 
