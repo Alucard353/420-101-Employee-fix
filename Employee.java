@@ -47,7 +47,8 @@ public class Employee{
      * Returns the net pay for the outstanding unpaid hours
      */
     private double calculatePay(){
-        // to be completed
+        Total = (hourlywage + unpaid hours)
+        calculate pay = (Total x 30%)
     }
 
     /*
@@ -58,13 +59,7 @@ public class Employee{
     }
 }
 
-My Anwser questionn 13
-/**
-*
-*/
-private double calculate pay () {
-    Total = (hourlywage + unpaid hours)
-    calculate pay = (Total x 30%)
+
         
 
 
